@@ -1,7 +1,8 @@
 #NAME  Samart   Pongsawat  5310611271
 
-NEXT TIME YOU MUST MAKE YOUR GIT REPO PRIVATE
+#NEXT TIME YOU MUST MAKE YOUR GIT REPO PRIVATE
 
+<pre>
 Grading:
 part1: 70
 
@@ -65,3 +66,4 @@ Total: 260
 Late: 0 day
 Deduction: -100 (public git repo)
 Final Score: 160/300
+</pre>
